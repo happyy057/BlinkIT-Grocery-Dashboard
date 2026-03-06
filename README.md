@@ -154,5 +154,5 @@ Customer Preference Analysis
 The fat content analysis provides insight into health-conscious buying behavior.
 
 6. Screenshots
- ![blinkIT Dashboard](https://github.com/username/repo/assets/xxxxx/image.png)
+ ![blinkIT Dashboard](https://github.com/happyy057/BlinkIT-Grocery-Dashboard/blob/main/blinkIT%20Dashboard.png)
 ![Blinkit Dashboard](https://github.com/username/repo/assets/xxxxx/image.png)
