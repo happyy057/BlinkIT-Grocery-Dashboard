@@ -155,3 +155,4 @@ The fat content analysis provides insight into health-conscious buying behavior.
 
 6. Screenshots
  ![blinkIT Dashboard](https://github.com/username/repo/assets/xxxxx/image.png)
+![Blinkit Dashboard](https://github.com/username/repo/assets/xxxxx/image.png)
