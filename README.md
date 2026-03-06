@@ -4,10 +4,12 @@ Blinkit Grocery Sales Analytics Dashboard
 An interactive Excel dashboard designed to analyze Blinkit grocery sales data by exploring product categories, outlet characteristics, and sales performance to generate business insights.
 
 2.  Purpose
+
 The Blinkit Grocery Sales Dashboard is an Excel-based data analytics project that provides insights into grocery sales performance across different outlet types, outlet sizes, and product categories.
 The dashboard helps stakeholders analyze sales trends, item popularity, fat content preferences, and outlet performance, enabling data-driven decision-making for retail businesses.
 
 3. Tech Stack
+
 • Microsoft Excel – Main platform used to build the dashboard
 • Pivot Tables – Used for summarizing and aggregating data
 • Pivot Charts – Used to create dynamic visualizations
@@ -30,8 +32,8 @@ The dataset contains information about grocery products sold across different ou
 This dataset enables analysis of sales patterns, product demand, and outlet performance.
 
 5. Features
-Business Problem
 
+Business Problem
 Retail grocery companies like Blinkit manage thousands of products across multiple outlets and cities. Without proper visualization tools, it becomes difficult to identify:
 
 • Which product categories generate the highest revenue
@@ -152,4 +154,4 @@ Customer Preference Analysis
 The fat content analysis provides insight into health-conscious buying behavior.
 
 6. Screenshots
-   
+   https://github.com/happyy057/BlinkIT-Grocery-Dashboard/blob/main/blinkIT%20Dashboard.png
